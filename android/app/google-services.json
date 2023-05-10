@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778691461176",
+    "project_id": "firestore-d6405",
+    "storage_bucket": "firestore-d6405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778691461176:android:e54b0a377b4927179c26cd",
+        "android_client_info": {
+          "package_name": "com.sohail.tummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778691461176-dujt3ks8jg9ir20dt5b29jd2r8ajh27k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL22aL4uviV_wIqVn3dapXOSI_ZvmnE1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778691461176-dujt3ks8jg9ir20dt5b29jd2r8ajh27k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
